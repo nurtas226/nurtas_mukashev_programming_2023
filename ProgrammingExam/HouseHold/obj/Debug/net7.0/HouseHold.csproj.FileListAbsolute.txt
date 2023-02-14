@@ -1,0 +1,15 @@
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\HouseHold.csproj.AssemblyReference.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\HouseHold.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\HouseHold.AssemblyInfoInputs.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\HouseHold.AssemblyInfo.cs
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\HouseHold.csproj.CoreCompileInputs.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\bin\Debug\net7.0\HouseHold.exe
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\bin\Debug\net7.0\HouseHold.deps.json
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\bin\Debug\net7.0\HouseHold.runtimeconfig.json
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\bin\Debug\net7.0\HouseHold.dll
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\bin\Debug\net7.0\HouseHold.pdb
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\HouseHold.dll
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\refint\HouseHold.dll
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\HouseHold.pdb
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\HouseHold.genruntimeconfig.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\HouseHold\obj\Debug\net7.0\ref\HouseHold.dll

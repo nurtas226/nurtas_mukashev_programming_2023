@@ -1,0 +1,16 @@
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.csproj.AssemblyReference.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\MainWindow.g.cs
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\App.g.cs
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager_MarkupCompile.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager_MarkupCompile.lref
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\bin\Debug\InvoicesManager.exe.config
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\bin\Debug\InvoicesManager.exe
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\bin\Debug\InvoicesManager.pdb
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\MainWindow.baml
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.g.resources
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.Properties.Resources.resources
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.csproj.GenerateResource.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.csproj.CoreCompileInputs.cache
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.exe
+C:\Users\nurta\OneDrive\Документы\GitHub\nurtas_mukashev_programming_2023\ProgrammingExam\InvoicesManager\obj\Debug\InvoicesManager.pdb
